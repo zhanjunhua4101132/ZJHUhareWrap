@@ -1,9 +1,9 @@
 PODS:
   - ZJHBlinkingLabel (0.1.0)
-  - ZJHUhareWrap (0.1.0)
+  - ZJHUhareWrap (0.1.0):
+    - ZJHBlinkingLabel
 
 DEPENDENCIES:
-  - ZJHBlinkingLabel
   - ZJHUhareWrap (from `../`)
 
 EXTERNAL SOURCES:
@@ -12,8 +12,8 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   ZJHBlinkingLabel: b60ce34c0bced0b708648faa2fadcbc4d71fad61
-  ZJHUhareWrap: cd77390028c904ea8b1a8d7b69f857bbf438e786
+  ZJHUhareWrap: 54cf5954ef2c148b96452a885dd1f12b5c38cbc7
 
-PODFILE CHECKSUM: e84ea4b07b525edeab8523bb2d47337542f0b999
+PODFILE CHECKSUM: 805e97ff6289d83e24cdfea581559b58d0abbf6e
 
 COCOAPODS: 1.1.1

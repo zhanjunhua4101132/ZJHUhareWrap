@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'ZJHUhareWrap'
   s.version          = '0.1.0'
-  s.summary          = 'A  simple wrap API with UMSocialShare and  ZJHBlinkingLabel.'
+  s.summary          = 'A simple wrap API with UMSocialShare and  ZJHBlinkingLabel.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,10 +18,10 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+A simple wrap API with UMSocialShare and  ZJHBlinkingLabel.a test case.
                        DESC
 
-  s.homepage         = 'https://github.com/张军华/ZJHUhareWrap'
+  s.homepage         = 'https://github.com/zhanjunhua4101132/ZJHUhareWrap'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '张军华' => 'zjh107381@alibaba-inc.com
@@ -43,4 +43,5 @@ zjh107381@alibaba-inc.com' }
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
+    s.dependency 'ZJHBlinkingLabel'
 end
