@@ -22,11 +22,7 @@ pod "ZJHUhareWrap"
 
 ## Author
 
-张军华, zjh107381@alibaba-inc.com
-zjh107381@alibaba-inc.com
-zjh107381@alibaba-inc.com
-zjh107381@alibaba-inc.com
-zjh107381@alibaba-inc.com
+张军华
 
 ## License
 

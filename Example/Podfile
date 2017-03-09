@@ -2,10 +2,9 @@ use_frameworks!
 
 target 'ZJHUhareWrap_Example' do
   pod 'ZJHUhareWrap', :path => '../'
-
+  pod "ZJHBlinkingLabel"
   target 'ZJHUhareWrap_Tests' do
     inherit! :search_paths
 
-    
   end
 end

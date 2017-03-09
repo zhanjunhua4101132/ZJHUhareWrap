@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'ZJHUhareWrap'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of ZJHUhareWrap.'
+  s.summary          = 'A  simple wrap API with UMSocialShare and  ZJHBlinkingLabel.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -29,7 +29,7 @@ zjh107381@alibaba-inc.com
 zjh107381@alibaba-inc.com
 zjh107381@alibaba-inc.com
 zjh107381@alibaba-inc.com' }
-  s.source           = { :git => 'https://github.com/张军华/ZJHUhareWrap.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/zhanjunhua4101132/ZJHUhareWrap.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
