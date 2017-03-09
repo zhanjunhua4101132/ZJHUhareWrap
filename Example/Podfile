@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZJHUhareWrap_Example' do
+  pod 'ZJHUhareWrap', :path => '../'
+
+  target 'ZJHUhareWrap_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
